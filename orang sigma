@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Website William</title>
+<style>
+body{
+background:black;
+color:white;
+text-align:center;
+font-family:Arial;
+margin-top:100px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>yasmin cantik</h1>
+<p>galang ganteng</p>
+
+</body>
+</html>
